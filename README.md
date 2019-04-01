@@ -17,4 +17,4 @@ Add the listed INI files to the <b>Keywords</b> folder located in SecureCRT's co
 To find out where SecureCRT is currently storing its configuration folder and files, open the SecureCRT <b>Global Options</b> dialog and select the <b>Configuration Paths</b> category.
 
 <h2>Additional Resources</h2>
-For additional resources and how to create your own keywords highlighting, please refer to the following official VanDyke Software video: https://youtu.be/PKhwnxR9weE
+For additional resources on how to create your own SecureCRT keyword highlighting, check out the following official video from VanDyke Software: https://youtu.be/PKhwnxR9weE
